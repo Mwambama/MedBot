@@ -1,2 +1,2 @@
-# Personal
-This is my personal
+# Medication deleivery System
+The medBot is an automated medication delivery system. The system works by a doctor putting a prescription into the medBot to transport to the hospital’s pharmacy. The pharmacy then receives the prescription via the medBot, then the pharmacist fills the prescription and gives it to the patient’s nurse. The nurse verifies that the prescription, dosage, patient, and location are all correct. Then, the nurse sends the medication off to the patient via medBot.
