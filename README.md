@@ -94,7 +94,7 @@ Hospital staff are overworked and susceptible to errors in delivering medication
 * \[PG-A3]
 ---
 
-## 💎 Repository & Demo
+## 💎 Demo
 
 * **Video Demo:** *Add YouTube link here*
 
