@@ -70,7 +70,6 @@ Hospital staff are overworked and susceptible to errors in delivering medication
 * **ADC for sensor input**
 * **Timers for PWM motor control**
 * **C Programming**
-* **CPRE 288 Trainer Kit**
 * **LCD Interface with button selection**
 * **Ping & bumper sensors for obstacle detection**
 * **Python GUI using sensor socket (TCP) for live MedBot location updates**
